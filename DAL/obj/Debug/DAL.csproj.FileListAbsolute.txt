@@ -1,0 +1,7 @@
+C:\Users\4ro9ito\source\repos\Project4\DAL\bin\Debug\DAL.exe.config
+C:\Users\4ro9ito\source\repos\Project4\DAL\bin\Debug\DAL.exe
+C:\Users\4ro9ito\source\repos\Project4\DAL\bin\Debug\DAL.pdb
+C:\Users\4ro9ito\source\repos\Project4\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\4ro9ito\source\repos\Project4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\4ro9ito\source\repos\Project4\DAL\obj\Debug\DAL.exe
+C:\Users\4ro9ito\source\repos\Project4\DAL\obj\Debug\DAL.pdb

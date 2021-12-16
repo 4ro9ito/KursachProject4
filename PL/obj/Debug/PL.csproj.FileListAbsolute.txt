@@ -1,0 +1,14 @@
+C:\Users\4ro9ito\source\repos\Project4\PL\bin\Debug\PL.exe.config
+C:\Users\4ro9ito\source\repos\Project4\PL\bin\Debug\PL.exe
+C:\Users\4ro9ito\source\repos\Project4\PL\bin\Debug\PL.pdb
+C:\Users\4ro9ito\source\repos\Project4\PL\bin\Debug\BLL.exe
+C:\Users\4ro9ito\source\repos\Project4\PL\bin\Debug\DAL.exe
+C:\Users\4ro9ito\source\repos\Project4\PL\bin\Debug\BLL.pdb
+C:\Users\4ro9ito\source\repos\Project4\PL\bin\Debug\BLL.exe.config
+C:\Users\4ro9ito\source\repos\Project4\PL\bin\Debug\DAL.pdb
+C:\Users\4ro9ito\source\repos\Project4\PL\bin\Debug\DAL.exe.config
+C:\Users\4ro9ito\source\repos\Project4\PL\obj\Debug\PL.csprojAssemblyReference.cache
+C:\Users\4ro9ito\source\repos\Project4\PL\obj\Debug\PL.csproj.CoreCompileInputs.cache
+C:\Users\4ro9ito\source\repos\Project4\PL\obj\Debug\PL.csproj.CopyComplete
+C:\Users\4ro9ito\source\repos\Project4\PL\obj\Debug\PL.exe
+C:\Users\4ro9ito\source\repos\Project4\PL\obj\Debug\PL.pdb

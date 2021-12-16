@@ -1,0 +1,166 @@
+<?xml version="1.0"?>
+<ArrayOfTests xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Tests>
+    <Type>false</Type>
+    <CounterAnswers>0</CounterAnswers>
+    <ListAnswers />
+    <ListQuestions>
+      <Questions>
+        <Type>false</Type>
+        <CounterAnswers>0</CounterAnswers>
+        <ListAnswers>
+          <Answers>
+            <Answer>366 дней</Answer>
+            <Type>false</Type>
+            <CounterAnswers>1</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>365 дней</Answer>
+            <Type>false</Type>
+            <CounterAnswers>2</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>364 дня 7 часов 58 минут 12 секунд</Answer>
+            <Type>false</Type>
+            <CounterAnswers>3</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>365 дня 5 часов 48 минут 46 секунд</Answer>
+            <Type>true</Type>
+            <CounterAnswers>4</CounterAnswers>
+          </Answers>
+        </ListAnswers>
+        <Title>Полный Оборот Земли</Title>
+        <Description>Полный оборот Земли вокруг Солнца происходит за:</Description>
+      </Questions>
+      <Questions>
+        <Type>false</Type>
+        <CounterAnswers>0</CounterAnswers>
+        <ListAnswers>
+          <Answers>
+            <Answer>Анды</Answer>
+            <Type>false</Type>
+            <CounterAnswers>1</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Гималаи</Answer>
+            <Type>true</Type>
+            <CounterAnswers>2</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Карпаты</Answer>
+            <Type>false</Type>
+            <CounterAnswers>3</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Альпы</Answer>
+            <Type>false</Type>
+            <CounterAnswers>4</CounterAnswers>
+          </Answers>
+        </ListAnswers>
+        <Title>Горы</Title>
+        <Description>Назовите самую высокую горную систему на Земле</Description>
+      </Questions>
+      <Questions>
+        <Type>false</Type>
+        <CounterAnswers>0</CounterAnswers>
+        <ListAnswers>
+          <Answers>
+            <Answer>Климат</Answer>
+            <Type>true</Type>
+            <CounterAnswers>1</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Погода</Answer>
+            <Type>false</Type>
+            <CounterAnswers>2</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Климатический пояс</Answer>
+            <Type>false</Type>
+            <CounterAnswers>3</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Природная зона</Answer>
+            <Type>false</Type>
+            <CounterAnswers>4</CounterAnswers>
+          </Answers>
+        </ListAnswers>
+        <Title>Режим Погоды</Title>
+        <Description>Многолетний режим погоды, характерный для определенной территории - это:</Description>
+      </Questions>
+    </ListQuestions>
+    <TitleTests>Базовые Знания По Географии(3Вопроса)</TitleTests>
+    <NumberOfPoints>0</NumberOfPoints>
+    <TimeForTest>20000</TimeForTest>
+  </Tests>
+  <Tests>
+    <Type>false</Type>
+    <CounterAnswers>0</CounterAnswers>
+    <ListAnswers />
+    <ListQuestions>
+      <Questions>
+        <Type>false</Type>
+        <CounterAnswers>0</CounterAnswers>
+        <ListAnswers>
+          <Answers>
+            <Answer>Affect</Answer>
+            <Type>false</Type>
+            <CounterAnswers>1</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Effect</Answer>
+            <Type>true</Type>
+            <CounterAnswers>2</CounterAnswers>
+          </Answers>
+        </ListAnswers>
+        <Title>Тест С Английского Языка №1 Вопрос 1</Title>
+        <Description>I drank three pints of beer but it had no ____ on me.</Description>
+      </Questions>
+      <Questions>
+        <Type>false</Type>
+        <CounterAnswers>0</CounterAnswers>
+        <ListAnswers>
+          <Answers>
+            <Answer>Whose</Answer>
+            <Type>false</Type>
+            <CounterAnswers>1</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Who's</Answer>
+            <Type>true</Type>
+            <CounterAnswers>2</CounterAnswers>
+          </Answers>
+        </ListAnswers>
+        <Title>Тест С Английского Языка №1 Вопрос 2</Title>
+        <Description>___ the leader of this team?</Description>
+      </Questions>
+      <Questions>
+        <Type>false</Type>
+        <CounterAnswers>0</CounterAnswers>
+        <ListAnswers>
+          <Answers>
+            <Answer>Who</Answer>
+            <Type>true</Type>
+            <CounterAnswers>1</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Whom</Answer>
+            <Type>false</Type>
+            <CounterAnswers>2</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Whomst</Answer>
+            <Type>false</Type>
+            <CounterAnswers>3</CounterAnswers>
+          </Answers>
+        </ListAnswers>
+        <Title>Тест С Английского Языка №1 Вопрос 3</Title>
+        <Description>She's the one ____ I think is always leaving passive-aggressive notes in the office.</Description>
+      </Questions>
+    </ListQuestions>
+    <TitleTests>Тест С Англ Языка(3 Вопроса)</TitleTests>
+    <NumberOfPoints>0</NumberOfPoints>
+    <TimeForTest>150000</TimeForTest>
+  </Tests>
+</ArrayOfTests>

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<ArrayOfTests xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Tests>
+    <Type>false</Type>
+    <CounterAnswers>0</CounterAnswers>
+    <ListQuestions>
+      <Questions>
+        <Type>false</Type>
+        <CounterAnswers>0</CounterAnswers>
+        <ListAnswers>
+          <Answers>
+            <Answer>Анды</Answer>
+            <Type>false</Type>
+            <CounterAnswers>1</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Гималаи</Answer>
+            <Type>true</Type>
+            <CounterAnswers>2</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Карпаты</Answer>
+            <Type>false</Type>
+            <CounterAnswers>3</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Альпы</Answer>
+            <Type>false</Type>
+            <CounterAnswers>4</CounterAnswers>
+          </Answers>
+        </ListAnswers>
+        <Title>Горы</Title>
+        <Description>Назовите самую высокую горную систему на Земле</Description>
+      </Questions>
+      <Questions>
+        <Type>false</Type>
+        <CounterAnswers>0</CounterAnswers>
+        <ListAnswers>
+          <Answers>
+            <Answer>Климат</Answer>
+            <Type>true</Type>
+            <CounterAnswers>1</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Погода</Answer>
+            <Type>false</Type>
+            <CounterAnswers>2</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Климатический пояс</Answer>
+            <Type>false</Type>
+            <CounterAnswers>3</CounterAnswers>
+          </Answers>
+          <Answers>
+            <Answer>Природная зона</Answer>
+            <Type>false</Type>
+            <CounterAnswers>4</CounterAnswers>
+          </Answers>
+        </ListAnswers>
+        <Title>Режим Погоды</Title>
+        <Description>Многолетний режим погоды, характерный для определенной территории - это:</Description>
+      </Questions>
+    </ListQuestions>
+    <TitleTests>Новый тест</TitleTests>
+    <NumberOfPoints>0</NumberOfPoints>
+    <TimeForTest>1000000</TimeForTest>
+  </Tests>
+</ArrayOfTests>fTests>n>
+      </Questions>
+    </ListQuestions>
+    <TitleTests>Да</TitleTests>
+    <NumberOfPoints>0</NumberOfPoints>
+    <TimeForTest>30000</TimeForTest>
+  </Tests>
+</ArrayOfTests>

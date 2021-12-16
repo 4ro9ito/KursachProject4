@@ -1,0 +1,155 @@
+<?xml version="1.0"?>
+<ArrayOfQuestions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Questions>
+    <Type>false</Type>
+    <CounterAnswers>0</CounterAnswers>
+    <ListAnswers>
+      <Answers>
+        <Answer>Да</Answer>
+        <Type>true</Type>
+        <CounterAnswers>1</CounterAnswers>
+      </Answers>
+      <Answers>
+        <Answer>Нет</Answer>
+        <Type>false</Type>
+        <CounterAnswers>2</CounterAnswers>
+      </Answers>
+    </ListAnswers>
+    <Title>Тестовое Название 1</Title>
+    <Description>Тестовое описание 1</Description>
+  </Questions>
+  <Questions>
+    <Type>false</Type>
+    <CounterAnswers>0</CounterAnswers>
+    <ListAnswers>
+      <Answers>
+        <Answer>Да</Answer>
+        <Type>true</Type>
+        <CounterAnswers>1</CounterAnswers>
+      </Answers>
+      <Answers>
+        <Answer>Нет</Answer>
+        <Type>false</Type>
+        <CounterAnswers>2</CounterAnswers>
+      </Answers>
+    </ListAnswers>
+    <Title>Тестовое Название 2</Title>
+    <Description>Тестовое описание 2</Description>
+  </Questions>
+  <Questions>
+    <Type>false</Type>
+    <CounterAnswers>0</CounterAnswers>
+    <ListAnswers>
+      <Answers>
+        <Answer>Да</Answer>
+        <Type>true</Type>
+        <CounterAnswers>1</CounterAnswers>
+      </Answers>
+      <Answers>
+        <Answer>Нет</Answer>
+        <Type>false</Type>
+        <CounterAnswers>2</CounterAnswers>
+      </Answers>
+    </ListAnswers>
+    <Title>Тестовое Название 3</Title>
+    <Description>Тестовое описание 3</Description>
+  </Questions>
+</ArrayOfQuestions>>4</CounterAnswers>
+      </Answers>
+    </ListAnswers>
+    <Title>Горы</Title>
+    <Description>фыоа</Description>
+  </Questions>
+  <Questions>
+    <Type>false</Type>
+    <CounterAnswers>0</CounterAnswers>
+    <ListAnswers>
+      <Answers>
+        <Answer>Климат</Answer>
+        <Type>true</Type>
+        <CounterAnswers>1</CounterAnswers>
+      </Answers>
+      <Answers>
+        <Answer>Погода</Answer>
+        <Type>false</Type>
+        <CounterAnswers>2</CounterAnswers>
+      </Answers>
+      <Answers>
+        <Answer>Климатический пояс</Answer>
+        <Type>false</Type>
+        <CounterAnswers>3</CounterAnswers>
+      </Answers>
+      <Answers>
+        <Answer>Природная зона</Answer>
+        <Type>false</Type>
+        <CounterAnswers>4</CounterAnswers>
+      </Answers>
+    </ListAnswers>
+    <Title>Режим Погоды</Title>
+    <Description>Многолетний режим погоды, характерный для определенной территории - это:</Description>
+  </Questions>
+  <Questions>
+    <Type>false</Type>
+    <CounterAnswers>0</CounterAnswers>
+    <ListAnswers>
+      <Answers>
+        <Answer>Affect</Answer>
+        <Type>false</Type>
+        <CounterAnswers>1</CounterAnswers>
+      </Answers>
+      <Answers>
+        <Answer>Effect</Answer>
+        <Type>true</Type>
+        <CounterAnswers>2</CounterAnswers>
+      </Answers>
+    </ListAnswers>
+    <Title>Тест С Английского Языка №1 Вопрос 1</Title>
+    <Description>I drank three pints of beer but it had no ____ on me.</Description>
+  </Questions>
+  <Questions>
+    <Type>false</Type>
+    <CounterAnswers>0</CounterAnswers>
+    <ListAnswers>
+      <Answers>
+        <Answer>Whose</Answer>
+        <Type>false</Type>
+        <CounterAnswers>1</CounterAnswers>
+      </Answers>
+      <Answers>
+        <Answer>Who's</Answer>
+        <Type>true</Type>
+        <CounterAnswers>2</CounterAnswers>
+      </Answers>
+    </ListAnswers>
+    <Title>Тест С Английского Языка №1 Вопрос 2</Title>
+    <Description>___ the leader of this team?</Description>
+  </Questions>
+  <Questions>
+    <Type>false</Type>
+    <CounterAnswers>0</CounterAnswers>
+    <ListAnswers>
+      <Answers>
+        <Answer>Who</Answer>
+        <Type>true</Type>
+        <CounterAnswers>1</CounterAnswers>
+      </Answers>
+      <Answers>
+        <Answer>Whom</Answer>
+        <Type>false</Type>
+        <CounterAnswers>2</CounterAnswers>
+      </Answers>
+      <Answers>
+        <Answer>Whomst</Answer>
+        <Type>false</Type>
+        <CounterAnswers>3</CounterAnswers>
+      </Answers>
+    </ListAnswers>
+    <Title>Тест С Английского Языка №1 Вопрос 3</Title>
+    <Description>She's the one ____ I think is always leaving passive-aggressive notes in the office.</Description>
+  </Questions>
+  <Questions>
+    <Type>false</Type>
+    <CounterAnswers>0</CounterAnswers>
+    <ListAnswers />
+  </Questions>
+</ArrayOfQuestions>
